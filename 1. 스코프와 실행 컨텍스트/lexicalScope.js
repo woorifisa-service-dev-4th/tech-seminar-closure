@@ -9,4 +9,4 @@ function bar() {
     console.log(x);
 }
 
-foo();
+foo(); 
